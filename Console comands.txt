@@ -1,0 +1,22 @@
+Set Up a new console project in NET Core:
+
+
+$ dotnet new console -o ImageDetector
+$ cd ImageDetector
+
+*
+*
+*
+*
+
+Commands to install ML.NET Packages:
+
+
+$ dotnet add package Microsoft.ML
+$ dotnet add package Microsoft.ML.ImageAnalytics
+$ dotnet add package Microsoft.ML.TensorFlow
+
+*
+*
+*
+*
